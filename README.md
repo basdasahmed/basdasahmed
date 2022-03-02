@@ -18,7 +18,7 @@
   </a>
 </div>
 
-<h3 align="center">👨‍💻 Working as a Game Developer at Vice Mask™ Inc. Indie Studio</h3>
+<h3 align="center">👨‍💻 Working as a Game Developer at Vice Mask™ Inc. Independent Studio</h3>
 <h3 align="center">in Istanbul / TURKEY</h3>
 
 <br/>
